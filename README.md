@@ -35,3 +35,12 @@ sh Add_Two_Numbers.sh
 ```
 sh Arithmetic_Operators.sh
 ```
+
+- Script 4: **Relational_Operators.sh**<br/>
+  - Download the script and run using below command.<br/>
+  - This will read two custom input numbers from the user.
+      - returns Largest of two Input Numbers.<br/>
+      - returns Smallest of two Input Numbers.<br/>    
+```
+sh Relational_Operators.sh
+```
