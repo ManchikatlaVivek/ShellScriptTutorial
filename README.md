@@ -22,3 +22,16 @@ sh Read_Input.sh
 ```
 sh Add_Two_Numbers.sh
 ```
+
+- Script 4: **Arithmetic_Operators.sh**<br/>
+  - Download the script and run using below command.<br/>
+  - This will read two custom input numbers from the user.
+      - returns Sum of two Input Numbers.<br/>
+      - returns Difference of two Input Numbers.<br/>
+      - returns Product of two Input Numbers.<br/>
+      - returns Division of two Input Numbers.<br/>
+      - returns Modulus of two Input Numbers.<br/>      
+  - Donot give space in variable value assignment.
+```
+sh Arithmetic_Operators.sh
+```
